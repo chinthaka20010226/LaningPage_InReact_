@@ -63,7 +63,7 @@ const Navbar = () => {
                 <a href=''>Testimonials</a>
                 <a href=''>Contact</a>
                 <a href=''>
-                    <BsCart2 className='navbar-cart-icon' />
+                    <BsCart2 className='navbar-cart-icon' />                                                              
                 </a>
                 <button className='primary-button'>Bookings Now</button>
             </div>
