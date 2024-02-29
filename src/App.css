@@ -176,6 +176,7 @@ nav {
 
 .watch-video-button {
   margin-left: 2rem;
+  /* margin-top: 1rem; */
   background-color: transparent;
   outline: none;
   border: none;
